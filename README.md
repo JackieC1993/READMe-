@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackie Cheung</h1>
-<h3 align="center">An inspire passionate fullstack developer</h3>
+<h3 align="center"> A Passionate Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackiec1993&label=Profile%20views&color=0e75b6&style=flat" alt="jackiec1993" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dinosaur and Museum Project**
 
-- 🌱 I’m currently learning **PERN stack**
+- 🌱 I’m currently learning **PERN Stack**
 
 - 💬 Ask me about **Javascript, Html, Css, React, Data and Algothrim, Post Gresx**
 
